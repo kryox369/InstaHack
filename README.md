@@ -9,7 +9,7 @@
 
 ## AVISO LEGAL:
 
-El uso de insTof para atacar objetivos sin previo consentimiento mutuo es ilegal. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables.
+El uso de InstaHack para atacar objetivos sin previo consentimiento mutuo es ilegal. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables.
 El desarrolladore no asume ninguna responsabilidad y no es responsable de ningún mal uso o daño causado por este programa. Sólo es necesario utilizar esta herramienta en el contexto de un proyecto,
 como una prueba de penetración certificada, o con fines educativos en un entorno especialmente preparado y no puede dañar a nadie.
 Si eres un hacker ético o un profesional de la seguridad de la información, debes asegurarte de tener todos los permisos necesarios antes de iniciar cualquier tipo de prueba de penetración.
