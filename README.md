@@ -18,7 +18,7 @@ Si eres un hacker ético o un profesional de la seguridad de la información, de
 ## Instalación
 1. ```git clone https://github.com/kryox369/InstaHack.git```
 2. ```pip3 install colorama```
-3. ```cd Brute-force-Instagram-2024```
+3. ```cd InstaHack```
 4. ```python3 InstaHack.py```
 
 
