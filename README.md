@@ -34,4 +34,4 @@ Si eres un hacker ético o un profesional de la seguridad de la información, de
 ## BUG ? 
 - Porfavor, abre un comentario
 - Contactame
-- Hey, estas interesado en todas mis herramientas? puedes contactarme en [Telegram](https://T.me/AxolotlNoir)
+- Hey, estas interesado en todas mis herramientas? puedes contactarme en [Telegram](https://T.me/corvusirae)
