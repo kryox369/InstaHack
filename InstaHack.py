@@ -25,8 +25,8 @@ def Logo():
   888   888  888      X88 Y88b.  888  888 888    888 888  888 Y88b.    888 "88b 
 8888888 888  888  88888P'  "Y888 "Y888888 888    888 "Y888888  "Y8888P 888  888 
 ==============================================
-[Creador] => AxolotlNoir - Kryox456 [Email_Del_Creador] => kryoxmusic@gmail.com ) 
-[Instagram_Del_Creador] => AxolotlNoir
+[Creador] => AxolotlNoir - cgs [Email_Del_Creador] => carlosgaelcortessuarez@gmail.com ) 
+[Instagram_Del_Creador] => cgs_664
 ==============================================
           
 ''')
